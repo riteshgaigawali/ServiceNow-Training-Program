@@ -122,5 +122,3 @@
     - Use **UI Actions** or **List Decorations** to apply visual indicators (e.g., change row color based on priority).
 
 ---
-
-Would you like to dive deeper into any of these questions or need help with real-world scenarios?
